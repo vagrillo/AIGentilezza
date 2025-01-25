@@ -20,7 +20,8 @@ the parameters are:
 ```
 temperature = 0.4
 num tokens =  1100
-thread = 1 
+thread = 1
+seed = 1971 (the same for all) 
 ```
 
 purpose of this file it's to test CPU time need to inference  the same question with and without kindness
