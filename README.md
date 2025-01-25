@@ -7,11 +7,11 @@ scenario:
 
 the questions are:
 
-"Please list the number of province in Sicily in Alphabetic order"
+**"Please list the number of province in Sicily in Alphabetic order"**
 
-"Could you please list the number of province in Sicily in Alphabetic order?" 
+**"Could you please list the number of province in Sicily in Alphabetic order?" **
  
- "List the number of province in Sicily in Alphabetic order"
+ **"List the number of province in Sicily in Alphabetic order"**
    
 
 #purpose og this file it's to test CPU time need to inference  the same question with and without kindness
