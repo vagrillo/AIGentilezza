@@ -39,9 +39,11 @@ first filtered log results on the first iterations
 ```
  sh analisi.sh
 
-"Please" costs 60.2757 sec for 14 iterations
-"Could" costs 79.2293 sec for 14 iterations
-"List" costs 54.9521 sec for 14 iterations
+"Please" costs 60.2292 sec for 24 iterations
+"Could" costs 78.8779 sec for 24 iterations
+"List" costs 55.0075 sec for 24 iterations
+
+
 ```
 
  
