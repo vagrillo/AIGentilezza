@@ -12,7 +12,15 @@ the questions are:
 **"Could you please list the number of province in Sicily in Alphabetic order?"**
  
  **"List the number of province in Sicily in Alphabetic order"**
-   
+
+
+the model i'm using is a quantized **Llama 3.2 3B** (Llama-3.2-3B-Instruct-F16.gguf)   
+
+the parameters are:
+temperature = 0.4
+num tokens =  1100
+thread = 1 
+
 
 #purpose og this file it's to test CPU time need to inference  the same question with and without kindness
 for i in $(seq 1 100); do
