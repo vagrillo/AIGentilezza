@@ -2,14 +2,14 @@
 This repository collects notes, tests, experiments to verify if kindness is useful when addressing AI and how much kindness costs.
 
 
-scenario:
-   i want to ask a question to AI, i can use kidness (i always try to use it) but i want to find if kidness costs cpu/gpu time
+**scenario**:
+   i want to ask a question to **AI**, i can use **kidness** (i always try to use it) but i want to find if kidness **costs** in terms of **cpu/gpu time **(watt)
 
 the questions are:
 
 **"Please list the number of province in Sicily in Alphabetic order"**
 
-**"Could you please list the number of province in Sicily in Alphabetic order?" **
+**"Could you please list the number of province in Sicily in Alphabetic order?"**
  
  **"List the number of province in Sicily in Alphabetic order"**
    
