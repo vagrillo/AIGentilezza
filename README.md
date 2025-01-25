@@ -35,18 +35,15 @@ done>
 ```
 
 
-first filtered log results on the first 8 iterations 
+first filtered log results on the first iterations 
+```
+ sh analisi.sh
 
- grep -e user -e ^generate -A1 monothreadgentile.log  | grep -v -e ^-- -e ^gener -e major  | grep ^Ple -A1 | grep user | awk -F"user" '{tot=tot+$1;i=i+1}END{print tot/i}'
+"Please" costs 60.2757 sec for 14 iterations
+"Could" costs 79.2293 sec for 14 iterations
+"List" costs 54.9521 sec for 14 iterations
+```
 
-**60.4478**
-
- grep -e user -e ^generate -A1 monothreadgentile.log  | grep -v -e ^-- -e ^gener -e major  | grep ^Could -A1 | grep user | awk -F"user" '{tot=tot+$1;i=i+1}END{print tot/i}'
-
-**78.7425**
-
- grep -e user -e ^generate -A1 monothreadgentile.log  | grep -v -e ^-- -e ^gener -e major  | grep ^List -A1 | grep user | awk -F"user" '{tot=tot+$1;i=i+1}END{print tot/i}'
-
-**54.5375**
+ 
 
  
