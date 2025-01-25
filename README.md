@@ -5,6 +5,13 @@ This repository collects notes, tests, experiments to verify if kindness is usef
 scenario:
    i want to ask a question to AI, i can use kidness (i always try to use it) but i want to find if kidness costs cpu/gpu time
 
+the questions are:
+
+"Please list the number of province in Sicily in Alphabetic order"
+
+"Could you please list the number of province in Sicily in Alphabetic order?" 
+ 
+ "List the number of province in Sicily in Alphabetic order"
    
 
 #purpose og this file it's to test CPU time need to inference  the same question with and without kindness
