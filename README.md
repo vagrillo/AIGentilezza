@@ -3,7 +3,7 @@ This repository collects notes, tests, experiments to verify if kindness is usef
 
 
 **scenario**:
-   i want to ask a question to **AI**, i can use **kidness** (i always try to use it) but i want to find if kidness **costs** in terms of **cpu/gpu time **(watt)
+   i want to ask a question to **AI**, i can use **kindness** (i always try to use it) but i want to find if kidness **costs** in terms of **cpu/gpu time **(watt)
 
 the questions are:
 
